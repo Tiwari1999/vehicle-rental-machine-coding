@@ -1,0 +1,11 @@
+## Pycharm IDE
+.idea/
+.idea_modules/
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/experchat.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
